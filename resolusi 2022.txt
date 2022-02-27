@@ -3,4 +3,6 @@
 3. melamar kerja sebagai programmers
 4. kursus bahasa korea
 5. kursus bahasa cina
+6. kursus bahasa javascripts
+7. kursus bahasa css
 
